@@ -1,0 +1,13 @@
+table{
+    width:50%;
+    padding:4px;
+    background-color:rgb(235, 240, 230);
+}
+
+tr,td,th{
+    border-color: insetgrey;
+    border-width: 2px;
+}
+tr:hover{
+    background-color: cyan;
+}
